@@ -1,4 +1,4 @@
-# learning
+# Learning
 Playground for learning new technologies, tools, languages, etc
 
 ## Setup
